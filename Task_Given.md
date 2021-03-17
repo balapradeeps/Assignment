@@ -33,7 +33,7 @@ Initial Setup(Use Terrform to create Ec2)
 
 
 ## Setup CI/CD
-1. Clone the (https://github.com/Harshaettigi/Spring-webpage.git) to your git node.
+1. Clone the [balapradeeps](https://github.com/balapradeeps/Spring-webpage.git) to your git node.
 2. Push the cloned repo to your newly created github repo.
 3. Create a jenkins job 1 to pull the code from newly created repo from your github repo. 
  - Run the mvn package command.
